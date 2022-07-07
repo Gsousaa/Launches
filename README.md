@@ -24,5 +24,5 @@ O projeto trata-se de uma consulta a API(https://docs.spacexdata.com/#bc65ba60-d
 - Deve ser realizado o download ou clone do projeto através do git;
 - Na pasta raiz do projeto existe um arquivo chamado requirements.txt, nele se encontra um compilado das bibliotecas utilizadas no projeto. Basta rodar a seguir diretamente no terminal da sua ferramenta de visualização do código: pip3 install -r requirements.txt;
 - Verificar se a internet está funcionando perfeitamente, pois será necessário para a comunicação com a API;
-- Ao final da execução do projeto em caso de funcionamento correto, irá aparecer a seguinte mensagem: "Dados salvos no arquivo respostas.xlsx". Onde estará o arquivo xlsx com as respostas.
+- Ao final da execução do projeto em caso de funcionamento correto, irá aparecer a seguinte mensagem: "Dados salvos no arquivo respostas.xlsx". Onde estará o arquivo xlsx com as respostas. Na pasta raiz do projeto, existe um exemplo do arquivo que será gerado.
 
